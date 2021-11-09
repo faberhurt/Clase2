@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Clase2</string>
+    <string name="lanceros">Lanceros Pantano de Vargas</string>
+    <string name="nombre">Lanceros del Pantano de Vargas</string>
+    <string name="Descripcion">Los Lanceros del Pantano de Vargas o Monumento a los Lanceros es un monumento erigido por el artista colombiano Rodrigo Arenas Betancur y diseño estructural por el Ing. Guillermo González Zuleta, ubicado en Paipa en el departamento de Boyacá (Colombia) como homenaje a la batalla del Pantano de Vargas ocurrida el 25 de julio de 1819.</string>
 </resources>
